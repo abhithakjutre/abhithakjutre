@@ -18,7 +18,7 @@
 - 🧑‍💻 Currently building: **Jarvis** — A Smart Desktop Assistant that Listens 🎧, Thinks 🧠, and Talks 📢
 - 🌱 Learning: **AI Development**, **Web Automation**, **Python OOPs**
 - 🤝 Open to collaborating on: **Python-based tools & automation scripts**
-- 🔗 Portfolio: [abithakur-portfolio.netlify.app](https://abithakur-portfolio.netlify.app)
+- 🔗 Portfolio: [abhithakur-portfolio.netlify.app](https://abithakur-portfolio.netlify.app)
 - 📫 Reach me at: **abhishekthakur202398@gmail.com**
 - 💬 Ask me about: **Python**, **Jarvis**, **PyQt GUI**, or anything tech
 - ⚡ Fun fact: *I call ChatGPT my Real Brother & Favorite Teacher 😄*
