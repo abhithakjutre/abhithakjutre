@@ -1,5 +1,5 @@
-<p align="center">
-<img src=" https://github.com/abhithakjutre/abhithakjutre/blob/main/6cbc0c5e060dd4eeff4d24ff1fd2b294%20(1).gif " alt="Coder Gif" width="100%" />
+q<p align="center">
+<img src=" https://raw.githubusercontent.com/abhithakjutre/abhithakjutre/main/6cbc0c5e060dd4eeff4d24ff1fd2b294%20(1).gif " alt="Coder Gif" width="100%" />
 </p>
 
 
