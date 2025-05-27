@@ -1,5 +1,5 @@
 <p align="center">
-<img src="6cbc0c5e060dd4eeff4d24ff1fd2b294%20(1).gif " alt="Coder Gif" width="100%" />
+<img src="computer_work.gif " alt="Coder Gif" width="100%" />
 </p>
 
 
