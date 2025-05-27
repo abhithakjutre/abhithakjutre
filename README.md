@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://pin.it/7vsogpNAM" alt="Coder Gif" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Abhi-Coder</h1>
 <h3 align="center">🎓 BCA Student | 🤖 Python & AI Developer | ⚙️ Automation Enthusiast | 🇮🇳 India</h3>
 
